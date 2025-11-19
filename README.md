@@ -25,7 +25,3 @@ You will need to repeat these steps if you move the folder or clear your Chrome 
 
 - **Fast and Lightweight**  
   Because all data and functions operate locally without relying on external servers, the extension is highly responsive and consumes minimal resources.
-
----
-
-Feel free to add this section to your `README.md` or documentation for clear communication of your extension's advantages.
